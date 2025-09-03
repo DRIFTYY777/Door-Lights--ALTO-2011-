@@ -56,7 +56,6 @@ See `Schematics.pdf` and the image above for the detailed circuit diagram.
 	- ![Door Light Installation 3](IMG-20250903-WA0005.jpg)
 	- ![Door Light Installation 4](IMG-20250903-WA0006.jpg)
 	- ![Door Light Installation 5](IMG-20250903-WA0007.jpg)
-	- ![Door Light Installation 6](IMG-20250903-WA0008.jpg)
 	- ![Door Light Installation 7](IMG-20250903-WA0009.jpg)
 	- ![Door Light Installation 8](IMG-20250903-WA0010.jpg)
 - Example videos: See included `.mp4` files for demonstration.
