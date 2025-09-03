@@ -45,12 +45,20 @@ See `Schematics.pdf` and the image above for the detailed circuit diagram.
 4. Connect the circuit to the car's 12V supply and ground.
 
 ## Safety Notes
-- The 2A diode protects against accidental overcurrent and reverse polarity.
+- The 2A fuse protects against accidental overcurrent and reverse polarity.
 - Ensure all connections are secure and insulated to prevent shorts.
 - Test the circuit with the door open and closed to verify correct operation before final installation.
 
 ## Media
-- Example images: See included `.jpg` files for installation and operation reference.
+- Example images:
+	- ![Door Light Installation 1](IMG-20250903-WA0003.jpg)
+	- ![Door Light Installation 2](IMG-20250903-WA0004.jpg)
+	- ![Door Light Installation 3](IMG-20250903-WA0005.jpg)
+	- ![Door Light Installation 4](IMG-20250903-WA0006.jpg)
+	- ![Door Light Installation 5](IMG-20250903-WA0007.jpg)
+	- ![Door Light Installation 6](IMG-20250903-WA0008.jpg)
+	- ![Door Light Installation 7](IMG-20250903-WA0009.jpg)
+	- ![Door Light Installation 8](IMG-20250903-WA0010.jpg)
 - Example videos: See included `.mp4` files for demonstration.
 
 ## License
