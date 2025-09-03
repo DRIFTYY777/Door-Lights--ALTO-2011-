@@ -60,6 +60,3 @@ See `Schematics.pdf` and the image above for the detailed circuit diagram.
 	- ![Door Light Installation 7](IMG-20250903-WA0009.jpg)
 	- ![Door Light Installation 8](IMG-20250903-WA0010.jpg)
 - Example videos: See included `.mp4` files for demonstration.
-
-## License
-This project is open for personal and educational use. For commercial use, please contact the author.
